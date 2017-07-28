@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.idea
+npm-debug.log
+databaseManager-compiled.js
+databaseManager-compiled.js.map
+fileManager-compiled.js
+fileManager-compiled.js.map
