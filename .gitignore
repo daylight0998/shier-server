@@ -2,7 +2,12 @@
 node_modules/
 .idea
 npm-debug.log
+
+app-compiled.js
+app-compiled.js.map
 databaseManager-compiled.js
 databaseManager-compiled.js.map
 fileManager-compiled.js
 fileManager-compiled.js.map
+
+sql.tmp
